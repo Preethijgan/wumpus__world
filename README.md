@@ -151,7 +151,8 @@ while(player):
 
 
 <h1>Output:</h1>
-![image](https://github.com/user-attachments/assets/88f71ed5-6376-4eec-863c-5df1739bca1b)
+
+![Screenshot 2025-05-05 211817](https://github.com/user-attachments/assets/39f7b739-4d60-43fa-99f3-5aa9008aae03)
 
 
 <h1>Result:</h1>
